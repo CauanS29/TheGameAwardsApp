@@ -6,7 +6,6 @@
 
 
 ## Ferramentas e depêndencias de build
-### Link para a [API com as receitas usadas](https://spoonacular.com/food-api)
 
 
 - Spring <img align="center" alt="Cauan-HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
